@@ -1,0 +1,39 @@
+{
+  "name": "insta-ads-hackathon22",
+  "version": "1.0.0",
+  "description": "> Responsive Instagram UI Clone",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahba404/insta-ads-hackathon22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahba404/insta-ads-hackathon22/issues"
+  },
+  "homepage": "https://github.com/wahba404/insta-ads-hackathon22#readme",
+  "dependencies": {
+    "@algolia/recommend": "^4.13.0",
+    "@algolia/recommend-js": "^1.3.0",
+    "@algolia/recommend-react": "^1.3.0",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/runtime": "^7.17.9",
+    "@parcel/transformer-image": "^2.5.0",
+    "algoliasearch": "^4.13.0",
+    "parcel": "^2.5.0",
+    "preact": "^10.7.1",
+    "preact-jsx-runtime": "^1.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-instagram-carousel": "^2.0.1",
+    "react-instantsearch-dom": "^6.23.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9"
+  }
+}
